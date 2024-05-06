@@ -10,7 +10,7 @@ from calibre.ebooks.metadata.sources.base import Source
 
 class NAVER(Source):
 
-    name = "NAVER Book"
+    name = "NAVER OpenAPI"
     description = "Downloads metadata and covers from NAVER Open API."
     author = "Limeade23 <https://github.com/limeade23>"
     version = (0, 0, 1)
